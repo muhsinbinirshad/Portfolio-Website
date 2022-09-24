@@ -39,9 +39,7 @@ export default function Home() {
   return (
     <div id="home-root">
       <Head>
-        <title>
-          {"Rithvik Nishad – software developer, electrical engineer, creator"}
-        </title>
+        <title>{"Muhammed Ashiq Abdul Khader"}</title>
       </Head>
       <NavigationBar
         locations={[
@@ -61,25 +59,23 @@ export default function Home() {
             <div className="w-40 sm:w-56 md:w-60 lg:w-72 xl:w-80 aspect-square relative">
               <Image
                 className="rounded-full"
-                src="/images/profile-picture.jfif"
+                src="/images/profile-picture.jpg"
                 layout="fill"
                 objectFit="cover"
-                alt="Photo of Rithvik Nishad"
+                alt="Photo of Muhammed Ashiq Abdul Khader"
                 priority={true}
               />
             </div>
           </div>
           <div className="w-full lg:w-1/2">
             <h1 className="text-primary mt-6 pt-6 lg:pt-0 leading-none">
-              Rithvik Nishad
+              Muhammed Ashiq Abdul Khader
             </h1>
             <p className="text-gray-900 font-bold dark:text-gray-200 my-10 text-lg xl:text-xl leading-tight">
-              Software Developer . Electrical Engineer . Creator
+              Software Developer . Machine Learning. Open Source Contributor
             </p>
             <p className="text-gray-700 text-base md:text-md dark:text-gray-400 mb-4 leading-relaxed max-w-prose">
-              {`Passionate about creating scalable and distributed systems for 
-              the power ⚡ grid and contributing to open source digital public 
-              goods.`}
+              {`Passionate about building scalable software solutions and machine learning applications for real world problems.`}
             </p>
             <div className="flex flex-wrap items-start gap-4 pb-24 lg:pb-0 mt-8">
               <PrimaryButton
