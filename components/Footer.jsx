@@ -12,7 +12,7 @@ export default function Footer(props) {
       <hr className="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" />
       <div className="container xl:max-w-screen-xl lg:flex justify-between mx-auto mt-2 lg:mt-8 mb-12">
         <section className="mb-8 lg:mb-0 font-semibold tracking-widest">
-          Muhammed Ashiq Abdul Khader
+          MUHAMMED ASHIQ ABDUL KHADER
         </section>
         <section>
           <hr className="lg:hidden mb-6 border-gray-200 dark:border-gray-800" />
