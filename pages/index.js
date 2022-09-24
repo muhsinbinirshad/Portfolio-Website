@@ -16,6 +16,7 @@ import {
   langs,
   otherTools,
   platforms,
+  Models,
 } from "../lib/skills";
 
 export default function Home() {
@@ -155,6 +156,7 @@ export default function Home() {
           <SkillCard category="Platforms" skills={platforms} />
           <SkillCard category="Databases" skills={db} />
           <SkillCard category="Other Tools" skills={otherTools} />
+          <SkillCard category="ML Models" skills={Models} />
         </div>
       </section>
       {/* About */}
