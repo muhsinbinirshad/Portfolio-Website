@@ -76,7 +76,7 @@ export default function Home() {
               Software Developer . Machine Learning. Open Source Contributor
             </p>
             <p className="text-gray-700 text-base md:text-md dark:text-gray-400 mb-4 leading-relaxed max-w-prose">
-              {`Passionate about building scalable software solutions and machine learning applications for real world problems.`}
+              {`Passionate about building scalable software solutions. I like to train deep neural nets on large datasets 🧠🤖💥`}
             </p>
             <div className="flex flex-wrap items-start gap-4 pb-24 lg:pb-0 mt-8">
               <PrimaryButton
