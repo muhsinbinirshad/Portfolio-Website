@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <div id="home-root">
       <Head>
-        <title>{"Muhammed Ashiq Abdul Khader"}</title>
+        <title>{"Muhsin Bin Irshad"}</title>
       </Head>
       <NavigationBar
         locations={[
@@ -70,7 +70,7 @@ export default function Home() {
           </div>
           <div className="w-full lg:w-1/2">
             <h1 className="text-primary mt-6 pt-6 lg:pt-0 leading-none">
-              Muhammed Ashiq Abdul Khader
+              Muhsin Bin Irshad 
             </h1>
             <p className="text-gray-900 font-bold dark:text-gray-200 my-10 text-lg xl:text-xl leading-tight">
               Software Developer . Machine Learning. Open Source Contributor
