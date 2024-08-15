@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <div id="home-root">
       <Head>
-        <title>{"Muhsin Bin Irshad"}</title>
+        <title>{"Muhsin Bin Irshad "}</title>
       </Head>
       <NavigationBar
         locations={[
